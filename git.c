@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("hello branch 1");
+	printf("hello branch 2");
 
 	return 0;
 }
